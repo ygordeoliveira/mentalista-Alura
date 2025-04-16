@@ -1,3 +1,3 @@
-# movies_lib
-# conversor-de-moedas-alura
-# mentalista-Alura
+# mentalista - Project
+
+Projeto desenvolvido durante o curso da Alura.
